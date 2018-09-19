@@ -1,0 +1,12 @@
+C:\Users\ybr89\source\repos\20.Graf\20.Graf\bin\Debug\20.Graf.exe.config
+C:\Users\ybr89\source\repos\20.Graf\20.Graf\bin\Debug\20.Graf.exe
+C:\Users\ybr89\source\repos\20.Graf\20.Graf\bin\Debug\20.Graf.pdb
+C:\Users\ybr89\source\repos\20.Graf\20.Graf\bin\Debug\ClassLibrary1.dll
+C:\Users\ybr89\source\repos\20.Graf\20.Graf\bin\Debug\ClassLibrary1.pdb
+C:\Users\ybr89\source\repos\20.Graf\20.Graf\obj\Debug\20.Graf.csprojResolveAssemblyReference.cache
+C:\Users\ybr89\source\repos\20.Graf\20.Graf\obj\Debug\_20.Graf.Form1.resources
+C:\Users\ybr89\source\repos\20.Graf\20.Graf\obj\Debug\_20.Graf.Properties.Resources.resources
+C:\Users\ybr89\source\repos\20.Graf\20.Graf\obj\Debug\20.Graf.csproj.GenerateResource.Cache
+C:\Users\ybr89\source\repos\20.Graf\20.Graf\obj\Debug\20.Graf.csproj.CoreCompileInputs.cache
+C:\Users\ybr89\source\repos\20.Graf\20.Graf\obj\Debug\20.Graf.exe
+C:\Users\ybr89\source\repos\20.Graf\20.Graf\obj\Debug\20.Graf.pdb

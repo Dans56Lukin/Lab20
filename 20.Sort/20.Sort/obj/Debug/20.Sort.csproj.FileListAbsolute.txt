@@ -1,0 +1,12 @@
+C:\Users\ybr89\source\repos\20.Sort\20.Sort\bin\Debug\20.Sort.exe.config
+C:\Users\ybr89\source\repos\20.Sort\20.Sort\bin\Debug\20.Sort.exe
+C:\Users\ybr89\source\repos\20.Sort\20.Sort\bin\Debug\20.Sort.pdb
+C:\Users\ybr89\source\repos\20.Sort\20.Sort\obj\Debug\20.Sort.csprojResolveAssemblyReference.cache
+C:\Users\ybr89\source\repos\20.Sort\20.Sort\obj\Debug\_20.Sort.Properties.Resources.resources
+C:\Users\ybr89\source\repos\20.Sort\20.Sort\obj\Debug\20.Sort.csproj.GenerateResource.Cache
+C:\Users\ybr89\source\repos\20.Sort\20.Sort\obj\Debug\20.Sort.csproj.CoreCompileInputs.cache
+C:\Users\ybr89\source\repos\20.Sort\20.Sort\obj\Debug\20.Sort.exe
+C:\Users\ybr89\source\repos\20.Sort\20.Sort\obj\Debug\20.Sort.pdb
+C:\Users\ybr89\source\repos\20.Sort\20.Sort\obj\Debug\_20.Sort.Form1.resources
+C:\Users\ybr89\source\repos\20.Sort\20.Sort\bin\Debug\ClassLibrary1.dll
+C:\Users\ybr89\source\repos\20.Sort\20.Sort\bin\Debug\ClassLibrary1.pdb

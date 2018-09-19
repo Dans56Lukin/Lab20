@@ -1,0 +1,12 @@
+C:\Users\ybr89\source\repos\20.4\20.4\bin\Debug\20.4.exe.config
+C:\Users\ybr89\source\repos\20.4\20.4\bin\Debug\20.4.exe
+C:\Users\ybr89\source\repos\20.4\20.4\bin\Debug\20.4.pdb
+C:\Users\ybr89\source\repos\20.4\20.4\bin\Debug\ClassLibrary1.dll
+C:\Users\ybr89\source\repos\20.4\20.4\bin\Debug\ClassLibrary1.pdb
+C:\Users\ybr89\source\repos\20.4\20.4\obj\Debug\20.5.csprojResolveAssemblyReference.cache
+C:\Users\ybr89\source\repos\20.4\20.4\obj\Debug\_20._4.Form4.resources
+C:\Users\ybr89\source\repos\20.4\20.4\obj\Debug\_20._4.Properties.Resources.resources
+C:\Users\ybr89\source\repos\20.4\20.4\obj\Debug\20.5.csproj.GenerateResource.Cache
+C:\Users\ybr89\source\repos\20.4\20.4\obj\Debug\20.5.csproj.CoreCompileInputs.cache
+C:\Users\ybr89\source\repos\20.4\20.4\obj\Debug\20.4.exe
+C:\Users\ybr89\source\repos\20.4\20.4\obj\Debug\20.4.pdb
